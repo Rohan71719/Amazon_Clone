@@ -1,5 +1,5 @@
 # Amazon_Clone
-This is a front-end clone of the Amazon India website, built using HTML, CSS, and JavaScript. The project replicates the layout, design, and core UI features of Amazon, including the header, navigation bar, product listings, sign-in page, and cart functionality.
+This is a front-end clone of the Amazon website, built using HTML, CSS, and JavaScript. The project replicates the layout, design, and core UI features of Amazon, including the header, navigation bar, product listings, sign-in page, and cart functionality.
 
 🚀 Features:
 🔍 Search bar similar to Amazon
